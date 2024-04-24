@@ -1,4 +1,3 @@
-app.test.js
 const { dayOfTheWeek } = require('./app');
 const { monthOfTheYear } = require('./app');
 
