@@ -1,4 +1,3 @@
-integrate.yml
 name: Node Continuous Integration
 
 on:
